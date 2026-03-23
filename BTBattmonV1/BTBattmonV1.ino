@@ -1,4 +1,5 @@
 #include <Arduino_GFX_Library.h>
+#include <NimBLEDevice.h>
 
 // 1. DataBus för Touch-versionen:
 // DC=15, CS=14, SCK=1, MOSI=2
